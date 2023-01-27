@@ -29,7 +29,7 @@
 <!-- ![linke3 mackph](https://user-images.githubusercontent.com/71630336/167281758-e4f57b2b-4877-4fea-9706-48099f96b94c.png) -->
 
 
-### नमस्कार! I'm [Mrinal Mohan](https://www.linkedin.com/in/ankush-kumar-06b22b191/)👋🏻 <!-- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="19px">  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> -->
+### नमस्कार! I'm [Mrinal Mohan](https://www.linkedin.com/in/imrinalmohan)👋🏻 <!-- <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Hi.gif" width="19px">  <img src="https://github.com/TheDudeThatCode/TheDudeThatCode/blob/master/Assets/Earth.gif" width="24px"> -->
 
 I'm a software developer and Designer with a passion for solving problems and creating innovative solutions. I have experience in various programming languages such as Python, Java, and C++ and have worked on a variety of projects, ranging from web development to machine learning. I'm always eager to learn new technologies and expand my skillset. In my free time, I enjoy contributing to open-source projects and participating in hackathons. You can find my work on my GitHub profile, feel free to check it out!
 
@@ -41,7 +41,7 @@ I'm a software developer and Designer with a passion for solving problems and cr
 - 💬 Ask me about **Android Development** , **Open Source Contributions** and **Internships**
 - 👯 I’m looking to collaborate on **Open Source Projects**
 - 📫 Reach me at : **imrinalmohan@gmail.com**
-- ⚡ Fun fact: I love designing and travelling to explore new places.
+- ⚡ Fun fact: I love playing table tennis🏓
 - ❤️ Building a community to make an impact by training new generations on cutting edge \
 technologies to meet future requirements.</br>
 
@@ -67,9 +67,9 @@ technologies to meet future requirements.</br>
    <summary>📃 Resume</summary>
    
  ## Experience
- -  👨‍💻 **Back-end Developer**---------------------------< Internship >\
+ -  👨‍💻 **Software Developer**---------------------------< Internship >\
  📆 Feb,2022 - moment\
-📍 **Youth India Foundation** - New Delhi, India
+📍 **Vite Fintech** - Bengaluru, Karnataka
    
  -  👨‍💻 **Open Source Contributor**----------------------< Apprenticeship >\
    📆 Feb,2022 - moment\
@@ -100,7 +100,7 @@ technologies to meet future requirements.</br>
 [<img src="https://img.shields.io/badge/Instagram-E4405F?style=for-the-badge&logo=instagram&logoColor=white" />](https://instagram.com/mrinz_mohan)
 </p>
 
-<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=akankushjnvku" alt="Mrinal's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=akankushjnvku&show_icons=true&theme=radical" alt="Ankush's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akankushjnvku&layout=compact)](https://github.com/anuraghazra/github-readme-stats" /></a> | 
+<img align="center" src="https://github-readme-streak-stats.herokuapp.com/?user=mrinalmohan" alt="Mrinal's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api?username=mrinalmohan&show_icons=true&theme=radical" alt="Mrinal's github stats" /></a> | <a href="https://github.com/anuraghazra/github-readme-stats"><img align="center" src="https://github-readme-stats.vercel.app/api/top-langs/?username=akankushjnvku&layout=compact)](https://github.com/anuraghazra/github-readme-stats" /></a> | 
 
 
 
