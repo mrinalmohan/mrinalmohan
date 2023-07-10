@@ -1,3 +1,4 @@
+![Design and Development](https://github.com/mrinalmohan/mrinalmohan/blob/main/github_banner.png)
 ### Hi there 👋, नमस्कार! I'm Mrinal Mohan
 #### Product Development Specialist @Nova-Benefits
 
