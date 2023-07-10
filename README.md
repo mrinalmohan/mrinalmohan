@@ -1,5 +1,5 @@
 <h1 align="center">नमस्कार!, I'm Mrinal Mohan</h1>
-<h3 align="center">Product Development Specialist @Nova_Benefits</h3>
+<h3 align="center">Product Development Specialist @Nova-Benefits</h3>
 
 - Portfolio Website [https://mrinal-mohan.typedream.app/](https://mrinal-mohan.typedream.app/)
 
